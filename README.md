@@ -8,9 +8,11 @@ pkg update && pkg upgrade && pkg install python -y && pkg install python2 -y && 
 ```
  git clone https://github.com/hearthackerBabar/parrot
 
-```
+
 * cd parrot
 * python2 parrot.py
+
+```
 
 # tool username and password
 
