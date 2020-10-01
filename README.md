@@ -3,6 +3,13 @@
 
 pkg update && pkg upgrade && pkg install python -y && pkg install python2 -y && pkg install git -y && pip2 install mechanize && pip2 install requests
 
+
+
+![gip1111hy](https://user-images.githubusercontent.com/62939512/94789700-f6fe1800-0370-11eb-8ce7-fd9b0c211b23.gif)
+
+
+
+
 # install parrot in termux
 
 ```
