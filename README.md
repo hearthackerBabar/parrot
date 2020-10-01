@@ -9,6 +9,9 @@ pkg update && pkg upgrade && pkg install python -y && pkg install python2 -y && 
  git clone https://github.com/hearthackerBabar/parrot
 
 ```
+
+![giphy](https://user-images.githubusercontent.com/62939512/94789473-a8e91480-0370-11eb-9dd7-b429df4740d8.gif)
+
 * cd parrot
 * python2 parrot.py
 
