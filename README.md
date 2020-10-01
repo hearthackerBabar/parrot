@@ -5,8 +5,10 @@ pkg update && pkg upgrade && pkg install python -y && pkg install python2 -y && 
 
 # install parrot in termux
 
-* git clone https://github.com/hearthackerBabar/parrot
+```
+ git clone https://github.com/hearthackerBabar/parrot
 
+```
 * cd parrot
 * python2 parrot.py
 
