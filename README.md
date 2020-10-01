@@ -30,4 +30,8 @@ pkg update && pkg upgrade && pkg install python -y && pkg install python2 -y && 
 
 # install Parrot in linux
 
+![P4id](https://user-images.githubusercontent.com/62939512/94789804-1c8b2180-0371-11eb-8030-b2b87493fa1a.gif)
+
+
+
 + Coming Soon 
