@@ -3,9 +3,9 @@
 
 pkg update && pkg upgrade && pkg install python -y && pkg install python2 -y && pkg install git -y && pip2 install mechanize && pip2 install requests
 
-# install paror in termux
+# install parrot in termux
 
-git clone https://github.com/hearthackerBabar/parrot
+* git clone https://github.com/hearthackerBabar/parrot
 
 cd parrot
 python2 parrot.py
