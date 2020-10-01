@@ -14,3 +14,7 @@ pkg update && pkg upgrade && pkg install python -y && pkg install python2 -y && 
 
 * username : Parot
 * password : Linux
+
+# install Parrot in linux
+
+@ Coming Soon
