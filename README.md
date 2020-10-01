@@ -17,4 +17,4 @@ pkg update && pkg upgrade && pkg install python -y && pkg install python2 -y && 
 
 # install Parrot in linux
 
-@ Coming Soon
+#* Coming Soon
