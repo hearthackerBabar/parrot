@@ -1,5 +1,6 @@
 # parrot Facebook Cloning
 
+#  Commands For Termux
 
 pkg update && pkg upgrade && pkg install python -y && pkg install python2 -y && pkg install git -y && pip2 install mechanize && pip2 install requests
 
